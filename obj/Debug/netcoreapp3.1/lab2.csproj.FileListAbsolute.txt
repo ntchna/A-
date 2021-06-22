@@ -1,0 +1,13 @@
+D:\Документы\kpi_semestr6\AI\Labbbbb2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csprojAssemblyReference.cache
+D:\Документы\kpi_semestr6\AI\Labbbbb2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfoInputs.cache
+D:\Документы\kpi_semestr6\AI\Labbbbb2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfo.cs
+D:\Документы\kpi_semestr6\AI\Labbbbb2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.CoreCompileInputs.cache
+D:\Документы\kpi_semestr6\AI\Labbbbb2\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.exe
+D:\Документы\kpi_semestr6\AI\Labbbbb2\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.deps.json
+D:\Документы\kpi_semestr6\AI\Labbbbb2\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.json
+D:\Документы\kpi_semestr6\AI\Labbbbb2\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.dev.json
+D:\Документы\kpi_semestr6\AI\Labbbbb2\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.dll
+D:\Документы\kpi_semestr6\AI\Labbbbb2\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.pdb
+D:\Документы\kpi_semestr6\AI\Labbbbb2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.dll
+D:\Документы\kpi_semestr6\AI\Labbbbb2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.pdb
+D:\Документы\kpi_semestr6\AI\Labbbbb2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.genruntimeconfig.cache
